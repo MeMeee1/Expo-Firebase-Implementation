@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034517668636",
+    "project_id": "fcmtest-67d97",
+    "storage_bucket": "fcmtest-67d97.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034517668636:android:522c2e6d25ebcc376c90d9",
+        "android_client_info": {
+          "package_name": "com.ysabel.fcmtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDucOCArCEKxD7I3GuYE5rA1DwA7E5rzzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
